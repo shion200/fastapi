@@ -1,4 +1,4 @@
-from controllers import *
+from controller import *
 
 
 
